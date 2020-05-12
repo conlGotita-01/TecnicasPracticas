@@ -1,0 +1,230 @@
+Arreglo de tamano 10
+
+Sat May  2 09:04:26 2020
+Cantidad de intercambios y comparaciones respectivamente 0 0 insertion sort
+Sat May  2 09:04:26 2020
+Los minutos transcurridos fueron 0.000000
+
+Sat May  2 09:04:26 2020
+Cantidad de intercambios y comparaciones respectivamente 68 34 merge sort
+Sat May  2 09:04:26 2020
+Los minutos transcurridos fueron 0.000000
+
+Sat May  2 09:04:26 2020
+Cantidad de intercambios y comparaciones respectivamente 0 45 bubble sort
+Sat May  2 09:04:26 2020
+Los minutos transcurridos fueron 0.000000
+
+Sat May  2 09:04:26 2020
+Cantidad de intercambios y comparaciones respectivamente 0 9 bubble sort mejorado
+Sat May  2 09:04:26 2020
+Los minutos transcurridos fueron 0.000000
+
+
+Arreglo de tamano 100
+
+Sat May  2 09:04:26 2020
+Cantidad de intercambios y comparaciones respectivamente 0 0 insertion sort
+Sat May  2 09:04:26 2020
+Los minutos transcurridos fueron 0.000000
+
+Sat May  2 09:04:26 2020
+Cantidad de intercambios y comparaciones respectivamente 1344 515 merge sort
+Sat May  2 09:04:26 2020
+Los minutos transcurridos fueron 0.000000
+
+Sat May  2 09:04:26 2020
+Cantidad de intercambios y comparaciones respectivamente 0 4950 bubble sort
+Sat May  2 09:04:26 2020
+Los minutos transcurridos fueron 0.000000
+
+Sat May  2 09:04:26 2020
+Cantidad de intercambios y comparaciones respectivamente 0 99 bubble sort mejorado
+Sat May  2 09:04:26 2020
+Los minutos transcurridos fueron 0.000000
+
+
+Arreglo de tamano 1000
+
+Sat May  2 09:04:26 2020
+Cantidad de intercambios y comparaciones respectivamente 0 0 insertion sort
+Sat May  2 09:04:26 2020
+Los minutos transcurridos fueron 0.000000
+
+Sat May  2 09:04:26 2020
+Cantidad de intercambios y comparaciones respectivamente 19952 6931 merge sort
+Sat May  2 09:04:26 2020
+Los minutos transcurridos fueron 0.000000
+
+Sat May  2 09:04:26 2020
+Cantidad de intercambios y comparaciones respectivamente 0 499500 bubble sort
+Sat May  2 09:04:26 2020
+Los minutos transcurridos fueron 0.000000
+
+Sat May  2 09:04:26 2020
+Cantidad de intercambios y comparaciones respectivamente 0 999 bubble sort mejorado
+Sat May  2 09:04:26 2020
+Los minutos transcurridos fueron 0.000000
+
+
+Arreglo de tamano 10000
+
+Sat May  2 09:04:26 2020
+Cantidad de intercambios y comparaciones respectivamente 0 0 insertion sort
+Sat May  2 09:04:26 2020
+Los minutos transcurridos fueron 0.000000
+
+Sat May  2 09:04:26 2020
+Cantidad de intercambios y comparaciones respectivamente 267232 84607 merge sort
+Sat May  2 09:04:26 2020
+Los minutos transcurridos fueron 0.000000
+
+Sat May  2 09:04:26 2020
+Cantidad de intercambios y comparaciones respectivamente 0 49995000 bubble sort
+Sat May  2 09:04:26 2020
+Los minutos transcurridos fueron 0.000000
+
+Sat May  2 09:04:26 2020
+Cantidad de intercambios y comparaciones respectivamente 0 9999 bubble sort mejorado
+Sat May  2 09:04:26 2020
+Los minutos transcurridos fueron 0.000000
+
+
+Arreglo de tamano 100000
+
+Sat May  2 09:04:26 2020
+Cantidad de intercambios y comparaciones respectivamente 0 0 insertion sort
+Sat May  2 09:04:26 2020
+Los minutos transcurridos fueron 0.000000
+
+Sat May  2 09:04:26 2020
+Cantidad de intercambios y comparaciones respectivamente 3337856 1015023 merge sort
+Sat May  2 09:04:26 2020
+Los minutos transcurridos fueron 0.000000
+
+Sat May  2 09:04:26 2020
+Cantidad de intercambios y comparaciones respectivamente 0 4999950000 bubble sort
+Sat May  2 09:04:39 2020
+Los minutos transcurridos fueron 0.216667
+
+Sat May  2 09:04:39 2020
+Cantidad de intercambios y comparaciones respectivamente 0 99999 bubble sort mejorado
+Sat May  2 09:04:39 2020
+Los minutos transcurridos fueron 0.000000
+
+
+Arreglo de tamano 10
+
+Sat May  2 09:04:39 2020
+Cantidad de intercambios y comparaciones respectivamente 45 0 insertion sort
+Sat May  2 09:04:39 2020
+Los minutos transcurridos fueron 0.000000
+
+Sat May  2 09:04:39 2020
+Cantidad de intercambios y comparaciones respectivamente 68 38 merge sort
+Sat May  2 09:04:39 2020
+Los minutos transcurridos fueron 0.000000
+
+Sat May  2 09:04:39 2020
+Cantidad de intercambios y comparaciones respectivamente 45 45 bubble sort
+Sat May  2 09:04:39 2020
+Los minutos transcurridos fueron 0.000000
+
+Sat May  2 09:04:39 2020
+Cantidad de intercambios y comparaciones respectivamente 45 45 bubble sort mejorado
+Sat May  2 09:04:39 2020
+Los minutos transcurridos fueron 0.000000
+
+
+Arreglo de tamano 100
+
+Sat May  2 09:04:39 2020
+Cantidad de intercambios y comparaciones respectivamente 4950 0 insertion sort
+Sat May  2 09:04:39 2020
+Los minutos transcurridos fueron 0.000000
+
+Sat May  2 09:04:39 2020
+Cantidad de intercambios y comparaciones respectivamente 1344 555 merge sort
+Sat May  2 09:04:39 2020
+Los minutos transcurridos fueron 0.000000
+
+Sat May  2 09:04:39 2020
+Cantidad de intercambios y comparaciones respectivamente 4950 4950 bubble sort
+Sat May  2 09:04:39 2020
+Los minutos transcurridos fueron 0.000000
+
+Sat May  2 09:04:39 2020
+Cantidad de intercambios y comparaciones respectivamente 4950 4950 bubble sort mejorado
+Sat May  2 09:04:39 2020
+Los minutos transcurridos fueron 0.000000
+
+
+Arreglo de tamano 1000
+
+Sat May  2 09:04:39 2020
+Cantidad de intercambios y comparaciones respectivamente 499500 0 insertion sort
+Sat May  2 09:04:39 2020
+Los minutos transcurridos fueron 0.000000
+
+Sat May  2 09:04:39 2020
+Cantidad de intercambios y comparaciones respectivamente 19952 7043 merge sort
+Sat May  2 09:04:39 2020
+Los minutos transcurridos fueron 0.000000
+
+Sat May  2 09:04:39 2020
+Cantidad de intercambios y comparaciones respectivamente 499500 499500 bubble sort
+Sat May  2 09:04:39 2020
+Los minutos transcurridos fueron 0.000000
+
+Sat May  2 09:04:39 2020
+Cantidad de intercambios y comparaciones respectivamente 499500 499500 bubble sort mejorado
+Sat May  2 09:04:39 2020
+Los minutos transcurridos fueron 0.000000
+
+
+Arreglo de tamano 10000
+
+Sat May  2 09:04:39 2020
+Cantidad de intercambios y comparaciones respectivamente 49995000 0 insertion sort
+Sat May  2 09:04:40 2020
+Los minutos transcurridos fueron 0.016667
+
+Sat May  2 09:04:40 2020
+Cantidad de intercambios y comparaciones respectivamente 267232 89007 merge sort
+Sat May  2 09:04:40 2020
+Los minutos transcurridos fueron 0.000000
+
+Sat May  2 09:04:40 2020
+Cantidad de intercambios y comparaciones respectivamente 49995000 49995000 bubble sort
+Sat May  2 09:04:40 2020
+Los minutos transcurridos fueron 0.000000
+
+Sat May  2 09:04:40 2020
+Cantidad de intercambios y comparaciones respectivamente 49995000 49995000 bubble sort mejorado
+Sat May  2 09:04:40 2020
+Los minutos transcurridos fueron 0.000000
+
+
+Arreglo de tamano 100000
+
+Sat May  2 09:04:40 2020
+Cantidad de intercambios y comparaciones respectivamente 4999950000 0 insertion sort
+Sat May  2 09:04:53 2020
+Los minutos transcurridos fueron 0.216667
+
+Sat May  2 09:04:53 2020
+Cantidad de intercambios y comparaciones respectivamente 3337856 1053903 merge sort
+Sat May  2 09:04:53 2020
+Los minutos transcurridos fueron 0.000000
+
+Sat May  2 09:04:53 2020
+Cantidad de intercambios y comparaciones respectivamente 4999950000 4999950000 bubble sort
+Sat May  2 09:05:14 2020
+Los minutos transcurridos fueron 0.350000
+
+Sat May  2 09:05:14 2020
+Cantidad de intercambios y comparaciones respectivamente 4999950000 4999950000 bubble sort mejorado
+Sat May  2 09:05:35 2020
+Los minutos transcurridos fueron 0.350000
+
+

@@ -1,0 +1,22 @@
+-se agregaron mas atributos a la estructura local para hacer los respectivos ordenamientos, se añadio el estadoActual, el cual es de tipo enum e indica si el local esta abierto o cerrado, la capacidadLocal que indica la capacidad de un local (es asignado de forma aleatorio en el main), la cantidadProductos que es la cantidad de productos en inventario, las ventasSemanales, un entero para representar cuantos articulos venden por semana (es asignado de forma aleatoria en en el main).
+
+-en el Main cuando se selecciona la opcion 2 para ingresar un nuevo local se imprime una matriz de 0s y 1s para que el usuario pueda ver cuales posiciones estan libres y cuales ocupadas.
+
+-las nuevas funciones van desde la opcion 8 hasta la 14.
+
+-la opcion 8 abre un local que ingrese el usuario (fila y columna), es decir, cambia el estadoActual del local.
+
+
+-la opcion 9 guarda la informacion actual del centro comercial en tres archivos distintos, dos de ellos son binarios (info.txt y localesOc.txt), el archivo tamano.txt guarda la cantidad de pisos y cuantos locales hay por piso para poder armar la matriz de nuevo cuando se cargen los datos. en info.txt se guarda la matriz del centro comercial y en localesOc.txt se guarda la informacion de la matriz localesOcupados para saber cuales estan libres y cuales no.
+
+-la opcion 10 carga la informacion de los archivos mencionados en el punto anterior y vuelve a armar la matriz del centro comercial, la de los locales ocupados y cuantos locales hay por piso.
+
+
+-la opcion 11 ordena la matriz por la capacidad de cada local por piso, es decir, toma el piso 1 y ordena todos los locales ocupados de menor a mayor y asi por cada piso (con selection sort).
+
+
+-la opcion 12 ordena todos los locales ocupados de acuerdo a la cantidad de productos en inventario de mayor a menor usando insertion sort.
+
+-la opcion 13 ordena todos los locales ocupados de acuerdo a la cantidad de ventas semanales que tengan usando merge sort.
+
+-la opcion 14 es similar a la 11, solo que no es por piso sino con el total de locales ocupados, y ordena de mayor a menor la capacidad de todos los locales ocupados usando quick sort.
